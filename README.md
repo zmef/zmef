@@ -11,18 +11,18 @@
 
 ## About Me
 
-Hey there! I'm **zmef**, a passionate and enthusiastic techie who loves diving into new technologies and solving complex problems. Here's a little bit more about me:
+Hey there! I'm **zmef**, a passionate and enthusiastic techie who loves diving into new technologies and solving easy to mid level problems. Here's a little bit more about me:
 
-- 💻 I have extensive experience in system administration and cybersecurity.
+- 💻 I have a lil' bit of experience in system administration and cybersecurity.
 - 🌐 I'm certified in Linux+, Security+, Cloud+, and CompTIA Secure Cloud Professional.
-- 🤹 I love multitasking and taking on new challenges.
+- 🤹 I love life, meeting folks, talking about politics & religion.
 - 😎 I'm also a **Certified Obnoxious Bro** (with a zany sense of humor)!
 
 ## My Skills
 
-- **Languages:** Python, JavaScript, Bash, C++
-- **Technologies:** Lots! Ax about me!
-- **Tools:** Git, Jenkins, Ansible, Terraform
+- **Weapons:** 🥋 Nunchucks
+- **Hunting:** 🏹 Bow
+- **Tech:** 👨‍💻 Computer Hacking
 
 ## GitHub Stats
 

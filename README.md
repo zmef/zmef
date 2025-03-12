@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Welcome to My GitHub Profile! 👋
 
-![I Do Computers](https://img.shields.io/badge/I%20Do%20Computers-Informational?style=for-the-badge&logo=zany)
+![I Do Computers](https://img.shields.io/badge/I%20Do%20Computers-Informational?style=for-the-badge&logo=computer)
 ![Linux+](https://img.shields.io/badge/Linux+-blue?style=for-the-badge&logo=linux)
 ![Security+](https://img.shields.io/badge/Security+-orange?style=for-the-badge&logo=shield)
 ![Cloud+](https://img.shields.io/badge/Cloud+-lightblue?style=for-the-badge&logo=cloud)

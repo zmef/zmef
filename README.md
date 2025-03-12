@@ -1,9 +1,9 @@
 ## Hi there 👋
 # Welcome to My GitHub Profile! 👋
 
-![I Do Computers](https://img.shields.io/badge/I%20Do%20Computers-Informational?style=for-the-badge&logo=computer)
-![Linux+](https://img.shields.io/badge/Linux+-blue?style=for-the-badge&logo=linux)](https://www.credly.com/badges/cd914efc-9cd3-4a71-a451-e7312977e0db/public_url)
-![Security+](https://img.shields.io/badge/Security+-orange?style=for-the-badge&logo=shield)](https://www.credly.com/badges/426ac4e4-1327-4c22-a637-30bb0ddcaada/public_url)
+![I Do Computers](https://img.shields.io/badge/I%20Do%20Computers-Informational?style=for-the-badge&logo=zany)
+![Linux+](https://img.shields.io/badge/Linux+-blue?style=for-the-badge&logo=linux)
+![Security+](https://img.shields.io/badge/Security+-orange?style=for-the-badge&logo=shield)
 ![Cloud+](https://img.shields.io/badge/Cloud+-lightblue?style=for-the-badge&logo=cloud)
 ![CompTIA Secure Cloud Professional](https://img.shields.io/badge/CompTIA%20Secure%20Cloud%20Professional-red?style=for-the-badge&logo=comptia)
 ![Certified Obnoxious Bro](https://img.shields.io/badge/Certified%20Obnoxious%20Bro-%F0%9F%A4%A3-brightgreen?style=for-the-badge)

@@ -32,7 +32,7 @@ Hey there! I'm **zmef**, a passionate and enthusiastic techie who loves diving i
 
 - [LinkedIn](https://www.linkedin.com/in/zmef/)
 - [Twitter](https://twitter.com/zmef)
-- [Email](mailto:me@zackkacks.xyz)
+- [Email](mailto:me@zackhacks.xyz)
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch if you want to collaborate or just chat about tech!
 

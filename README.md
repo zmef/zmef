@@ -24,7 +24,7 @@ Hey there! I'm **zmef**, a passionate and enthusiastic techie who loves diving i
 - **Hunting:** 🏹 Bow
 - **Tech:** 👨‍💻 Computer Hacking
 
-## GitHub Stats
+## GitHub Fats (they used to call me that back in high school)
 
 ![zmef's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmef&show_icons=true&theme=radical)
 
@@ -32,7 +32,7 @@ Hey there! I'm **zmef**, a passionate and enthusiastic techie who loves diving i
 
 - [LinkedIn](https://www.linkedin.com/in/zmef/)
 - [Twitter](https://twitter.com/zmef)
-- [Email](mailto:zmef@example.com)
+- [Email](mailto:me@zackkacks.xyz)
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch if you want to collaborate or just chat about tech!
 

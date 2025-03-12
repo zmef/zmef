@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Welcome to My GitHub Profile! 👋
+#⬅️ This guy's mid, bro!👋
 
 [![I Do Computers](https://img.shields.io/badge/I%20Do%20Computers-Informational?style=for-the-badge&logo=computer)](https://zackhacks.xyz/)
 [![Linux+](https://img.shields.io/badge/Linux+-blue?style=for-the-badge&logo=linux)](https://www.credly.com/badges/cd914efc-9cd3-4a71-a451-e7312977e0db/public_url)

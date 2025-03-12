@@ -1,12 +1,12 @@
 ## Hi there 👋
 # Welcome to My GitHub Profile! 👋
 
-[![I Do Computers](https://img.shields.io/badge/I%20Do%20Computers-Informational?style=for-the-badge&logo=computer)](https://example.com/computers)
+[![I Do Computers](https://img.shields.io/badge/I%20Do%20Computers-Informational?style=for-the-badge&logo=computer)](https://zackhacks.xyz/)
 [![Linux+](https://img.shields.io/badge/Linux+-blue?style=for-the-badge&logo=linux)](https://www.credly.com/badges/cd914efc-9cd3-4a71-a451-e7312977e0db/public_url)
 [![Security+](https://img.shields.io/badge/Security+-orange?style=for-the-badge&logo=shield)](https://www.credly.com/badges/426ac4e4-1327-4c22-a637-30bb0ddcaada/public_url)
 [![Cloud+](https://img.shields.io/badge/Cloud+-lightblue?style=for-the-badge&logo=cloud)](https://www.credly.com/badges/baff6a8b-0f4d-41ea-aabe-33a4a99f84c4/public_url)
 [![CompTIA Secure Cloud Professional](https://img.shields.io/badge/CompTIA%20Secure%20Cloud%20Professional-red?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/daa9a4a7-db67-4df9-8e0b-5eff6517e6e8/public_url)
-[![Certified Obnoxious Bro](https://img.shields.io/badge/Certified%20Obnoxious%20Bro-%F0%9F%A4%A3-brightgreen?style=for-the-badge)](https://example.com/obnoxious-bro)
+[![Certified Obnoxious Bro](https://img.shields.io/badge/Certified%20Obnoxious%20Bro-%F0%9F%A4%A3-brightgreen?style=for-the-badge)](https://xn--h4h0969n85b.ws/)
 
 
 ## About Me
